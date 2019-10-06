@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://img3.goodfon.ru/original/1920x1080/4/2b/nebo-vselennaya-zvezdy.jpg?d=1");
+    url("/images/background.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://img3.goodfon.ru/original/1920x1080/4/2b/nebo-vselennaya-zvezdy.jpg?d=1") center center fixed;
+    url("/images/background.jpg") center center fixed;
   --height: 50vh;
 }
 
